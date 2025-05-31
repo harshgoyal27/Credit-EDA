@@ -33,6 +33,7 @@ Since ots a numerical Colunms with no outliers and there is not much difference 
 
 ## Binning YEARS_BIRTH Column
 ![image](https://github.com/user-attachments/assets/392d71b7-f746-4590-87b4-3a44d1b96f3e)
+
 Most of the Applicants are between the age 25- 45 age group
 
 ## Pair Plot of Amount Columns for target 0
